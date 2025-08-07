@@ -78,18 +78,3 @@ You can test the API using Postman. Import the endpoints manually or create a Po
  👨‍💻 Author
 Created by Dhanush Reddy – For Elevate Labs Internship.
 
--yaml
------
-      ---
-
-You can now:
-
-1. Go to your GitHub repo.
-2. Click on `README.md`.
-3. Click the **✏️ Edit** (pencil icon).
-4. Replace the existing content with the above Markdown.
-5. Scroll down, **add a commit message**, and click **"Commit changes"**.
-
-Let me know if you'd like to add a badge (like build passing, license, etc.) or a logo!
-
------
